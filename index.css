@@ -1,0 +1,178 @@
+.header2 {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.952);
+  text-align: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
+.apple-icon {
+  margin-top: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+.icons {
+  margin-top: 15px;
+  margin-right: 15px;
+  cursor: pointer;
+  color: #a2aaad;
+  padding-bottom: 10px;
+}
+.pointer {
+  cursor: pointer;
+}
+ul {
+  cursor: pointer;
+  color: #e5eaec;
+  align-items: center;
+}
+.header3 {
+  height: 40px;
+  text-align: center;
+  background-color: #fbfbfde0;
+  padding-top: 5px;
+  padding-bottom: 8px;
+}
+.body {
+  width: 100%;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-bottom: 10px;
+}
+body {
+  background-color: white;
+}
+.iphone {
+  width: auto;
+  height: auto;
+}
+img {
+  height: 497px;
+  width: 46%;
+}
+.section2 {
+  background-color: #35283c;
+}
+.image {
+  margin-left: 337px;
+}
+.section1 {
+  background-color: rgba(14, 3, 3, 0.034);
+}
+.text {
+  text-align: center;
+  padding-top: 20px;
+}
+.section3-header {
+  height: 50px;
+  text-align: center;
+}
+.section3-image {
+  margin-top: 167px;
+  margin-left: 10px;
+  margin-right: 50px;
+}
+.image2 {
+  height: 50%;
+  width: 104%;
+  margin-top: 10px;
+}
+.left-section {
+  width: 50%;
+  background-color: rgba(243, 239, 239, 0.658);
+  height: auto;
+  text-align: center;
+}
+.watch-image {
+  width: 461px;
+  height: 338px;
+  margin-top: 65px;
+}
+.padding {
+  padding-top: 20px;
+}
+.right-section {
+  margin-left: 20px;
+  background-color: rgba(255, 255, 255, 0.836);
+  width: 50%;
+  text-align: center;
+}
+.mini {
+  width: 148px;
+  height: 61px;
+  padding-top: 30px;
+}
+.padding2 {
+  padding-bottom: 0px;
+  margin-top: 38px;
+}
+.mini2 {
+  width: 654px;
+  height: 470px;
+  margin-top: 27px;
+}
+.header {
+  background-color: black;
+  position: sticky;
+  top: 0;
+}
+.left-section2 {
+  width: 50%;
+  margin-top: 20px;
+  background-color: rgb(251 251 253);
+}
+.airpod {
+  margin-top: 50px;
+}
+.airpods {
+  text-align: center;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.airpode-image {
+  width: 450px;
+  padding: 20px;
+}
+.all {
+  margin-bottom: 10px;
+}
+.airpode-image2 {
+  width: 850px;
+}
+.leftsection {
+  width: 50%;
+}
+.arcade {
+  width: 500px;
+  height: 50%;
+}
+.finch {
+  margin-left: 60px;
+  width: 112%;
+  margin-top: 152px;
+}
+
+.footer1 {
+  width: 80%;
+  margin-left: 165px;
+}
+.footer2 {
+  text-align: center;
+  margin-left: 20px;
+}
+.footer3 {
+  text-align: center;
+}
+.last {
+  margin-left: 20px;
+  margin-top: 17px;
+}
+.last1 {
+  margin-left: 20px;
+}
